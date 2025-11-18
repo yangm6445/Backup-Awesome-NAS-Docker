@@ -1,1 +1,6 @@
-
+category: "11、实用工具"
+- subcategory: "网盘加速"
+- name: "Clianpro"
+- description: "网盘下载/解析解决方案"
+- repo: "https://github.com/supzza/clianpro"
+- tutorial: ""
